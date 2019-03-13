@@ -1,0 +1,108 @@
+Upon Choosing the 'Insert' option following user inputs are recorded:
+ID 4
+ Name on CardHari
+ Card Number342536253625365
+ Unit Price5.0
+ Qunatity5
+ Total Price25.0
+ Expiration Date01/2020
+ Created On2019-03-13 11:06:11
+ Created Bysidha
+ Credit TypeAmericanExpressInserting of transactional data is succesfull!Upon Choosing the 'Insert' option following user inputs are recorded:
+ID: 5
+, Name on Card: Seema
+, Card Number: 5123658536952635
+, Unit Price: 5.0
+, Qunatity: 6
+, Total Price: 30.0
+, Expiration Date: 01/2020
+, Created On: 2019-03-13 11:18:57
+, Created By: sidha
+, Credit Type: MasterCard
+Inserting of transactional data is succesfull!
+Upon Choosing the 'Insert' option following user inputs are recorded:
+ID: 1
+, Name on Card: Siri
+, Card Number: 5123636352412563
+, Unit Price: 5.0
+, Qunatity: 5
+, Total Price: 25.0
+, Expiration Date: 01/2021
+, Created On: 2019-03-13 11:21:13
+, Created By: sidha
+, Credit Type: MasterCard
+Insertion Unsuccessfull! ID exists in Database , Kindly use the Update option.
+Upon Choosing the 'Update' option following user inputs are recorded:
+ID: 4
+, Name on Card to be updated to: Ricky
+Updating of transactional data is succesfull! Card Name for id: 4 changed to: Ricky
+Upon Choosing the 'Update' option following user inputs are recorded:
+ID: 56
+, Name on Card to be updated to: Sanjeev
+Updating of transactional data is unsuccesfull! ID does not exist in Database , Kindly use the Create option.
+Upon Choosing the 'Fetch' option following user inputs are recorded:
+ID: 1
+Fetching of transactional data is succesfull! for ID: 1
+Upon Choosing the 'Fetch' option following user inputs are recorded:
+ID: 52
+Fetching of transactional data is Unsuccesfull! \n ID does not exist in Database.
+Upon Choosing the 'Delete' option following user inputs are recorded:
+ID: 17
+Deletion of the transaction is succesfull! 
+ Record deleted for the ID no 17
+Upon Choosing the 'Delete' option following user inputs are recorded:
+ID: 58
+Deletion of the transaction is Unsuccesfull! 
+ ID 58 does not exist in the Database.
+Upon Choosing the 'Insert' option following user inputs are recorded:
+[ID: 7,NameOnCard: Ram,CardNumber: 4236523652365214,UnitPrice: 5.0,Quantity: 6,TotalPrice: 30.0,ExpDate: 08/2022,CreatedOn: 2019-03-13 18:26:00,CreatedBy: sidha,CreditType: Visa]
+Result : Inserting of transactional data is succesfull!
+Upon Choosing the 'Insert' option following user inputs are recorded:
+[ID: 7,NameOnCard: sree,CardNumber: 5123652365214569,UnitPrice: 6.0,Quantity: 6,TotalPrice: 36.0,ExpDate: 08/2022,CreatedOn: 2019-03-13 18:27:35,CreatedBy: sidha,CreditType: MasterCard]
+Result : Insertion Unsuccessfull! ID exists in Database , Kindly use the Update option.
+Upon Choosing the 'Insert' option following user inputs are recorded:
+[ID: 8,NameOnCard: Riya,CardNumber: 343265326532652,UnitPrice: 6.0,Quantity: 7,TotalPrice: 42.0,ExpDate: 12/2031,CreatedOn: 2019-03-13 18:29:31,CreatedBy: sidha,CreditType: AmericanExpress]
+Result : Inserting of transactional data is succesfull!
+Upon Choosing the 'Insert' option following user inputs are recorded:
+[ID: 17,NameOnCard: Durgesh,CardNumber: 5523652365236521,UnitPrice: 5.0,Quantity: 5,TotalPrice: 25.0,ExpDate: 01/2016,CreatedOn: 2019-03-13 18:32:22,CreatedBy: sidha,CreditType: MasterCard]
+Result : Inserting of transactional data is succesfull!
+Upon Choosing the 'Insert' option following user inputs are recorded:
+[ID: 13,NameOnCard: Hari,CardNumber: 4125362536251425,UnitPrice: 6.0,Quantity: 6,TotalPrice: 36.0,ExpDate: 08/2025,CreatedOn: 2019-03-13 18:33:23,CreatedBy: sidha,CreditType: Visa]
+Result : Insertion Unsuccessfull! ID exists in Database , Kindly use the Update option.
+Upon Choosing the 'Update' option following user inputs are recorded:
+ID: 8
+, Name on Card to be updated to: Shyam
+Updating of transactional data is succesfull! Card Name for id: 8 changed to: Shyam
+Upon Choosing the 'Update' option following user inputs are recorded:
+ID: 56
+, Name on Card to be updated to: Sridutt
+Updating of transactional data is unsuccesfull! ID does not exist in Database , Kindly use the Create option.
+Upon Choosing the 'Fetch' option following user inputs are recorded:
+ID: 1
+Fetching of transactional data is succesfull! for ID: 1
+Upon Choosing the 'Fetch' option following user inputs are recorded:
+ID: 55
+Fetching of transactional data is Unsuccesfull! \n ID does not exist in Database.
+Upon Choosing the 'Delete' option following user inputs are recorded:
+ID: 17
+Result: Deletion of the transaction is succesfull! 
+ Record deleted for the ID no 17
+Upon Choosing the 'Delete' option following user inputs are recorded:
+ID: 60
+Result: Deletion of the transaction is Unsuccesfull! 
+ ID 60 does not exist in the Database.
+Upon Choosing the 'Update' option following user inputs are recorded:
+ID: 10
+, Name on Card to be updated to: Sridharan
+Result: Updating of transactional data is succesfull! Card Name for id: 10 changed to: Sridharan
+Upon Choosing the 'Update' option following user inputs are recorded:
+ID: 56
+, Name on Card to be updated to: Sindhu
+Result: Updating of transactional data is unsuccesfull! ID does not exist in Database , Kindly use the Create option.
+Upon Choosing the 'Fetch' option following user inputs are recorded:
+ID: 1
+Result: Fetching of transactional data is succesfull! for ID: 1
+Upon Choosing the 'Fetch' option following user inputs are recorded:
+ID: 62
+Result: Fetching of transactional data is Unsuccesfull! 
+ ID does not exist in Database.

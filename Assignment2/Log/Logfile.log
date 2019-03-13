@@ -1,0 +1,214 @@
+Mar. 12, 2019 12:51:39 A.M. com.dpenny.mcda5510.SimpleLogging simpleLog
+CONFIG: Configuration done.
+Mar. 12, 2019 12:52:20 A.M. com.dpenny.mcda5510.Assignment2 update
+INFO: Updating of transactional data is succesfull! 
+ Card Name for id 1 changed to :  Seema
+Mar. 12, 2019 12:52:59 A.M. com.dpenny.mcda5510.SimpleLogging simpleLog
+CONFIG: Configuration done.
+Mar. 12, 2019 12:53:41 A.M. com.dpenny.mcda5510.Assignment2 insert
+INFO: Inserting of transactional data is succesfull! 
+[ID: 15,NameOnCard: Rajeev,CardNumber: 5412365214523658,UnitPrice: 5.0,Quantity: 5,TotalPrice: 25.0,ExpDate: 07/2020,CreatedOn: 2019-03-12 00:53:41,CreatedBy: sidha,CreditType: MasterCard]
+Mar. 12, 2019 12:59:09 A.M. com.dpenny.mcda5510.SimpleLogging simpleLog
+CONFIG: Configuration done.
+Mar. 12, 2019 12:59:54 A.M. com.dpenny.mcda5510.Assignment2 insert
+INFO: Inserting of transactional data is succesfull! 
+[ID: 16,NameOnCard: Murgesh,CardNumber: 371236521425365,UnitPrice: 5.0,Quantity: 5,TotalPrice: 25.0,ExpDate: 06/2025,CreatedOn: 2019-03-12 00:59:54,CreatedBy: sidha,CreditType: AmericanExpress]
+Mar. 12, 2019 1:00:34 A.M. com.dpenny.mcda5510.SimpleLogging simpleLog
+CONFIG: Configuration done.
+Mar. 12, 2019 1:01:46 A.M. com.dpenny.mcda5510.Assignment2 insert
+INFO: Inserting of transactional data is succesfull! 
+[ID: 17,NameOnCard: Seerya,CardNumber: 4236253625362514,UnitPrice: 5.0,Quantity: 5,TotalPrice: 25.0,ExpDate: 08/2021,CreatedOn: 2019-03-12 01:01:45,CreatedBy: sidha,CreditType: Visa]
+Mar. 12, 2019 1:02:35 A.M. com.dpenny.mcda5510.SimpleLogging simpleLog
+CONFIG: Configuration done.
+Mar. 12, 2019 1:03:05 A.M. com.dpenny.mcda5510.Assignment2 insert
+WARNING: ID exists in Database , Kindly use the Update option. 
+
+Mar. 12, 2019 1:03:53 A.M. com.dpenny.mcda5510.SimpleLogging simpleLog
+CONFIG: Configuration done.
+Mar. 12, 2019 1:04:22 A.M. com.dpenny.mcda5510.Assignment2 insert
+INFO: Inserting of transactional data is succesfull! 
+[ID: 19,NameOnCard: Durgesh,CardNumber: 5123653214253625,UnitPrice: 5.0,Quantity: 5,TotalPrice: 25.0,ExpDate: 12/2030,CreatedOn: 2019-03-12 01:04:22,CreatedBy: sidha,CreditType: MasterCard]
+Mar. 12, 2019 1:15:26 A.M. com.dpenny.mcda5510.SimpleLogging simpleLog
+CONFIG: Configuration done.
+Mar. 12, 2019 1:15:31 A.M. com.dpenny.mcda5510.Assignment2 fetch
+INFO: Fetching of transactional data is succesfull! 
+[ID: 1,NameOnCard:  Seema,CardNumber: 123456789,UnitPrice: 2.0,Quantity: 23,TotalPrice: 46.0,ExpDate: 21/02/2019,CreatedOn: 2019-01-31 11:30:45,CreatedBy: sidharth,CreditType: null]
+Mar. 12, 2019 5:36:14 P.M. com.dpenny.mcda5510.SimpleLogging simpleLog
+CONFIG: Configuration done.
+Mar. 12, 2019 5:36:19 P.M. com.dpenny.mcda5510.Assignment2 fetch
+INFO: Fetching of transactional data is succesfull! 
+[ID: 1,NameOnCard:  Seema,CardNumber: 123456789,UnitPrice: 2.0,Quantity: 23,TotalPrice: 46.0,ExpDate: 21/02/2019,CreatedOn: 2019-01-31 11:30:45,CreatedBy: sidharth,CreditType: null]
+Mar. 12, 2019 5:40:59 P.M. com.dpenny.mcda5510.SimpleLogging simpleLog
+CONFIG: Configuration done.
+Mar. 12, 2019 7:13:50 P.M. com.dpenny.mcda5510.SimpleLogging simpleLog
+CONFIG: Configuration done.
+Mar. 12, 2019 7:13:57 P.M. com.dpenny.mcda5510.Assignment2 fetch
+INFO: Fetching of transactional data is succesfull! 
+[ID: 1,NameOnCard:  Seema,CardNumber: 123456789,UnitPrice: 2.0,Quantity: 23,TotalPrice: 46.0,ExpDate: 21/02/2019,CreatedOn: 2019-01-31 11:30:45,CreatedBy: sidharth,CreditType: null]
+Mar. 12, 2019 7:14:45 P.M. com.dpenny.mcda5510.SimpleLogging simpleLog
+CONFIG: Configuration done.
+Mar. 12, 2019 9:14:54 P.M. com.dpenny.mcda5510.SimpleLogging simpleLog
+CONFIG: Configuration done.
+Mar. 12, 2019 9:15:36 P.M. com.dpenny.mcda5510.Assignment2 insert
+INFO: Inserting of transactional data is succesfull! 
+[ID: 2,NameOnCard: Srishti,CardNumber: 4236253625362536,UnitPrice: 5.0,Quantity: 5,TotalPrice: 25.0,ExpDate: 02/2019,CreatedOn: 2019-03-12 21:15:35,CreatedBy: sidha,CreditType: Visa]
+Mar. 12, 2019 9:15:50 P.M. com.dpenny.mcda5510.SimpleLogging simpleLog
+CONFIG: Configuration done.
+Mar. 12, 2019 9:16:31 P.M. com.dpenny.mcda5510.Assignment2 insert
+WARNING: ID exists in Database , Kindly use the Update option. 
+
+Mar. 12, 2019 9:16:53 P.M. com.dpenny.mcda5510.SimpleLogging simpleLog
+CONFIG: Configuration done.
+Mar. 12, 2019 9:17:38 P.M. com.dpenny.mcda5510.Assignment2 update
+INFO: Updating of transactional data is succesfull! 
+ Card Name for id 2 changed to : Synthia
+Mar. 12, 2019 9:17:45 P.M. com.dpenny.mcda5510.SimpleLogging simpleLog
+CONFIG: Configuration done.
+Mar. 12, 2019 9:17:55 P.M. com.dpenny.mcda5510.Assignment2 update
+WARNING: ID does not exist in Database , Kindly use the Create option.
+Mar. 12, 2019 9:18:20 P.M. com.dpenny.mcda5510.SimpleLogging simpleLog
+CONFIG: Configuration done.
+Mar. 12, 2019 9:18:27 P.M. com.dpenny.mcda5510.Assignment2 fetch
+INFO: Fetching of transactional data is succesfull! 
+[ID: 1,NameOnCard: Seema,CardNumber: 5142156325623525,UnitPrice: 5.0,Quantity: 5,TotalPrice: 25.0,ExpDate: 02/2020,CreatedOn: 2019-03-12 21:06:02,CreatedBy: sidha,CreditType: MasterCard]
+Mar. 12, 2019 9:18:42 P.M. com.dpenny.mcda5510.SimpleLogging simpleLog
+CONFIG: Configuration done.
+Mar. 12, 2019 9:18:47 P.M. com.dpenny.mcda5510.Assignment2 fetch
+WARNING: Fetching of transactional data is Unsuccesfull! 
+ ID does not exist in Database.
+Mar. 12, 2019 9:19:08 P.M. com.dpenny.mcda5510.SimpleLogging simpleLog
+CONFIG: Configuration done.
+Mar. 12, 2019 9:19:21 P.M. com.dpenny.mcda5510.Assignment2 delete
+INFO: Deletion of the transaction is succesfull! 
+ Record deleted for the ID no 19
+Mar. 12, 2019 9:19:25 P.M. com.dpenny.mcda5510.SimpleLogging simpleLog
+CONFIG: Configuration done.
+Mar. 12, 2019 9:19:30 P.M. com.dpenny.mcda5510.Assignment2 delete
+INFO: Deletion of the transaction is Unsuccesfull! 
+ ID 56 does not exist in the Database.
+Mar. 13, 2019 10:06:20 A.M. com.dpenny.mcda5510.SimpleLogging simpleLog
+CONFIG: Configuration done.
+Mar. 13, 2019 10:39:19 A.M. com.dpenny.mcda5510.SimpleLogging simpleLog
+CONFIG: Configuration done.
+Mar. 13, 2019 10:39:59 A.M. com.dpenny.mcda5510.Assignment2 insert
+INFO: Inserting of transactional data is succesfull! 
+[ID: 3,NameOnCard: Darshan,CardNumber: 5123636363636363,UnitPrice: 5.0,Quantity: 5,TotalPrice: 25.0,ExpDate: 01/2020,CreatedOn: 2019-03-13 10:39:59,CreatedBy: sidha,CreditType: MasterCard]
+Mar. 13, 2019 11:05:21 A.M. com.dpenny.mcda5510.SimpleLogging simpleLog
+CONFIG: Configuration done.
+Mar. 13, 2019 11:06:11 A.M. com.dpenny.mcda5510.Assignment2 insert
+INFO: Inserting of transactional data is succesfull! 
+[ID: 4,NameOnCard: Hari,CardNumber: 342536253625365,UnitPrice: 5.0,Quantity: 5,TotalPrice: 25.0,ExpDate: 01/2020,CreatedOn: 2019-03-13 11:06:11,CreatedBy: sidha,CreditType: AmericanExpress]
+Mar. 13, 2019 11:18:25 A.M. com.dpenny.mcda5510.SimpleLogging simpleLog
+CONFIG: Configuration done.
+Mar. 13, 2019 11:18:57 A.M. com.dpenny.mcda5510.Assignment2 insert
+INFO: Inserting of transactional data is succesfull! 
+[ID: 5,NameOnCard: Seema,CardNumber: 5123658536952635,UnitPrice: 5.0,Quantity: 6,TotalPrice: 30.0,ExpDate: 01/2020,CreatedOn: 2019-03-13 11:18:57,CreatedBy: sidha,CreditType: MasterCard]
+Mar. 13, 2019 11:20:40 A.M. com.dpenny.mcda5510.SimpleLogging simpleLog
+CONFIG: Configuration done.
+Mar. 13, 2019 11:21:13 A.M. com.dpenny.mcda5510.Assignment2 insert
+WARNING: ID exists in Database , Kindly use the Update option. 
+
+Mar. 13, 2019 5:32:00 P.M. com.dpenny.mcda5510.SimpleLogging simpleLog
+CONFIG: Configuration done.
+Mar. 13, 2019 5:35:44 P.M. com.dpenny.mcda5510.SimpleLogging simpleLog
+CONFIG: Configuration done.
+Mar. 13, 2019 5:36:31 P.M. com.dpenny.mcda5510.Assignment2 update
+INFO: Updating of transactional data is succesfull! 
+ Card Name for id 4 changed to : Ricky
+Mar. 13, 2019 5:38:24 P.M. com.dpenny.mcda5510.SimpleLogging simpleLog
+CONFIG: Configuration done.
+Mar. 13, 2019 5:38:43 P.M. com.dpenny.mcda5510.Assignment2 update
+WARNING: ID does not exist in Database , Kindly use the Create option.
+Mar. 13, 2019 6:06:52 P.M. com.dpenny.mcda5510.SimpleLogging simpleLog
+CONFIG: Configuration done.
+Mar. 13, 2019 6:06:58 P.M. com.dpenny.mcda5510.Assignment2 fetch
+INFO: Fetching of transactional data is succesfull! 
+[ID: 1,NameOnCard: Seema,CardNumber: 5142156325623525,UnitPrice: 5.0,Quantity: 5,TotalPrice: 25.0,ExpDate: 02/2020,CreatedOn: 2019-03-12 21:06:02,CreatedBy: sidha,CreditType: MasterCard]
+Mar. 13, 2019 6:07:51 P.M. com.dpenny.mcda5510.SimpleLogging simpleLog
+CONFIG: Configuration done.
+Mar. 13, 2019 6:08:00 P.M. com.dpenny.mcda5510.Assignment2 fetch
+WARNING: Fetching of transactional data is Unsuccesfull! 
+ ID does not exist in Database.
+Mar. 13, 2019 6:09:12 P.M. com.dpenny.mcda5510.SimpleLogging simpleLog
+CONFIG: Configuration done.
+Mar. 13, 2019 6:09:35 P.M. com.dpenny.mcda5510.Assignment2 delete
+INFO: Deletion of the transaction is succesfull! 
+ Record deleted for the ID no 17
+Mar. 13, 2019 6:09:51 P.M. com.dpenny.mcda5510.SimpleLogging simpleLog
+CONFIG: Configuration done.
+Mar. 13, 2019 6:10:03 P.M. com.dpenny.mcda5510.Assignment2 delete
+INFO: Deletion of the transaction is Unsuccesfull! 
+ ID 58 does not exist in the Database.
+Mar. 13, 2019 6:24:39 P.M. com.dpenny.mcda5510.SimpleLogging simpleLog
+CONFIG: Configuration done.
+Mar. 13, 2019 6:26:00 P.M. com.dpenny.mcda5510.Assignment2 insert
+INFO: Inserting of transactional data is succesfull! 
+[ID: 7,NameOnCard: Ram,CardNumber: 4236523652365214,UnitPrice: 5.0,Quantity: 6,TotalPrice: 30.0,ExpDate: 08/2022,CreatedOn: 2019-03-13 18:26:00,CreatedBy: sidha,CreditType: Visa]
+Mar. 13, 2019 6:27:08 P.M. com.dpenny.mcda5510.SimpleLogging simpleLog
+CONFIG: Configuration done.
+Mar. 13, 2019 6:27:35 P.M. com.dpenny.mcda5510.Assignment2 insert
+WARNING: ID exists in Database , Kindly use the Update option. 
+
+Mar. 13, 2019 6:28:41 P.M. com.dpenny.mcda5510.SimpleLogging simpleLog
+CONFIG: Configuration done.
+Mar. 13, 2019 6:29:31 P.M. com.dpenny.mcda5510.Assignment2 insert
+INFO: Inserting of transactional data is succesfull! 
+[ID: 8,NameOnCard: Riya,CardNumber: 343265326532652,UnitPrice: 6.0,Quantity: 7,TotalPrice: 42.0,ExpDate: 12/2031,CreatedOn: 2019-03-13 18:29:31,CreatedBy: sidha,CreditType: AmericanExpress]
+Mar. 13, 2019 6:31:20 P.M. com.dpenny.mcda5510.SimpleLogging simpleLog
+CONFIG: Configuration done.
+Mar. 13, 2019 6:32:22 P.M. com.dpenny.mcda5510.Assignment2 insert
+INFO: Inserting of transactional data is succesfull! 
+[ID: 17,NameOnCard: Durgesh,CardNumber: 5523652365236521,UnitPrice: 5.0,Quantity: 5,TotalPrice: 25.0,ExpDate: 01/2016,CreatedOn: 2019-03-13 18:32:22,CreatedBy: sidha,CreditType: MasterCard]
+Mar. 13, 2019 6:32:42 P.M. com.dpenny.mcda5510.SimpleLogging simpleLog
+CONFIG: Configuration done.
+Mar. 13, 2019 6:33:23 P.M. com.dpenny.mcda5510.Assignment2 insert
+WARNING: ID exists in Database , Kindly use the Update option. 
+
+Mar. 13, 2019 6:34:43 P.M. com.dpenny.mcda5510.SimpleLogging simpleLog
+CONFIG: Configuration done.
+Mar. 13, 2019 6:35:19 P.M. com.dpenny.mcda5510.Assignment2 update
+INFO: Updating of transactional data is succesfull! 
+ Card Name for id 8 changed to : Shyam
+Mar. 13, 2019 6:35:33 P.M. com.dpenny.mcda5510.SimpleLogging simpleLog
+CONFIG: Configuration done.
+Mar. 13, 2019 6:35:48 P.M. com.dpenny.mcda5510.Assignment2 update
+WARNING: ID does not exist in Database , Kindly use the Create option.
+Mar. 13, 2019 6:36:55 P.M. com.dpenny.mcda5510.SimpleLogging simpleLog
+CONFIG: Configuration done.
+Mar. 13, 2019 6:37:07 P.M. com.dpenny.mcda5510.Assignment2 fetch
+INFO: Fetching of transactional data is succesfull! 
+[ID: 1,NameOnCard: Seema,CardNumber: 5142156325623525,UnitPrice: 5.0,Quantity: 5,TotalPrice: 25.0,ExpDate: 02/2020,CreatedOn: 2019-03-12 21:06:02,CreatedBy: sidha,CreditType: MasterCard]
+Mar. 13, 2019 6:37:20 P.M. com.dpenny.mcda5510.SimpleLogging simpleLog
+CONFIG: Configuration done.
+Mar. 13, 2019 6:37:25 P.M. com.dpenny.mcda5510.Assignment2 fetch
+WARNING: Fetching of transactional data is Unsuccesfull! 
+ ID does not exist in Database.
+Mar. 13, 2019 6:40:36 P.M. com.dpenny.mcda5510.SimpleLogging simpleLog
+CONFIG: Configuration done.
+Mar. 13, 2019 6:40:51 P.M. com.dpenny.mcda5510.Assignment2 delete
+INFO: Deletion of the transaction is succesfull! 
+ Record deleted for the ID no 17
+Mar. 13, 2019 6:40:55 P.M. com.dpenny.mcda5510.SimpleLogging simpleLog
+CONFIG: Configuration done.
+Mar. 13, 2019 6:40:59 P.M. com.dpenny.mcda5510.Assignment2 delete
+INFO: Deletion of the transaction is Unsuccesfull! 
+ ID 60 does not exist in the Database.
+Mar. 13, 2019 6:43:04 P.M. com.dpenny.mcda5510.SimpleLogging simpleLog
+CONFIG: Configuration done.
+Mar. 13, 2019 6:43:31 P.M. com.dpenny.mcda5510.Assignment2 update
+INFO: Updating of transactional data is succesfull! 
+ Card Name for id 10 changed to : Sridharan
+Mar. 13, 2019 6:43:35 P.M. com.dpenny.mcda5510.SimpleLogging simpleLog
+CONFIG: Configuration done.
+Mar. 13, 2019 6:43:51 P.M. com.dpenny.mcda5510.Assignment2 update
+WARNING: ID does not exist in Database , Kindly use the Create option.
+Mar. 13, 2019 6:44:06 P.M. com.dpenny.mcda5510.SimpleLogging simpleLog
+CONFIG: Configuration done.
+Mar. 13, 2019 6:44:11 P.M. com.dpenny.mcda5510.Assignment2 fetch
+INFO: Fetching of transactional data is succesfull! 
+[ID: 1,NameOnCard: Seema,CardNumber: 5142156325623525,UnitPrice: 5.0,Quantity: 5,TotalPrice: 25.0,ExpDate: 02/2020,CreatedOn: 2019-03-12 21:06:02,CreatedBy: sidha,CreditType: MasterCard]
+Mar. 13, 2019 6:44:15 P.M. com.dpenny.mcda5510.SimpleLogging simpleLog
+CONFIG: Configuration done.
+Mar. 13, 2019 6:44:22 P.M. com.dpenny.mcda5510.Assignment2 fetch
+WARNING: Fetching of transactional data is Unsuccesfull! 
+ ID does not exist in Database.
