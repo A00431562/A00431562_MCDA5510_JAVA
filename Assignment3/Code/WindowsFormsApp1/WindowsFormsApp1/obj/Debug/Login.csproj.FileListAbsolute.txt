@@ -1,0 +1,15 @@
+C:\Users\sidha\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\sidha\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\sidha\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\sidha\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Login.csprojAssemblyReference.cache
+C:\Users\sidha\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\sidha\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\sidha\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\sidha\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\sidha\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\sidha\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\sidha\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\sidha\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sidha\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\sidha\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sidha\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Login.csproj.CopyComplete
